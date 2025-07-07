@@ -1,0 +1,20 @@
+##write a program to store seven fruits in a list by user
+fruit = []
+take = input("enter sevent fruits one by one : ")
+fruit.append(take)
+take = input("enter sevent fruits one by one : ")
+fruit.append(take)
+take = input("enter sevent fruits one by one : ")
+fruit.append(take)
+take = input("enter sevent fruits one by one : ")
+fruit.append(take)
+take = input("enter sevent fruits one by one : ")
+fruit.append(take)
+take = input("enter sevent fruits one by one : ")
+fruit.append(take)
+take = input("enter sevent fruits one by one : ")
+fruit.append(take)
+
+print(fruit)
+print(type(fruit))
+print(len(fruit))
